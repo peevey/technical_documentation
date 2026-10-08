@@ -1,0 +1,14 @@
+site_name: Meine Testdokumentation
+theme:
+  name: material
+  language: de
+nav:
+  - Startseite: index.md
+  - Prozesse: prozesse.md
+  - FAQ: faq.md
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
