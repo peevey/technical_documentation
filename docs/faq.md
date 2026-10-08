@@ -7,3 +7,7 @@
 ## Wann erscheint eine Änderung online?
 
 Wenn du deine Änderung in den Branch `main` übernimmst, startet GitHub Actions die Veröffentlichung.
+
+## Das ist eine weitere Anpassung
+
+> Ich würde hier gerne ein Zitat sehen. 
